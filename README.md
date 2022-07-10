@@ -2,7 +2,9 @@
 
 Sample Python Code to test and learn regular expressions. its all about trial and error
 
-Load passwords.txt  Download passwords.txtthis contains a list of common passwords. Answer the following and provide your code for each answer.
+Download passwords.txt this contains a list of common passwords. 
+ 
+Answer the following and provide your code for each answer.
 
 How many times does the word ‘password’ happen in any context
 
